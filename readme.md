@@ -1,4 +1,4 @@
-# Sneakers - Simple eCommerce Web App
+# Sneakers - eCommerce Web App
 
 Sneakers is a lightweight and user-friendly eCommerce web application. It allows users to browse products, add them to the cart, and make purchases. This README provides information on how to set up and use Sneakers.
 
